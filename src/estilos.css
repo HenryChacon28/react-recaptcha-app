@@ -7,7 +7,10 @@
 }
 
 body {
-	background: #f2f2f2;
+	background: #74ebd5;
+	background: -webkit-linear-gradient(to right, #ACB6E5, #74ebd5);
+	background: linear-gradient(to right, #ACB6E5, #74ebd5);
+
 	font-family: 'Roboto', sans-serif;
 }
 
